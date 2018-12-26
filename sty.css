@@ -212,10 +212,11 @@ margin-bottom:18px;
 .footer ul li {
     display:inline;
     text-decoration: none;
+
    }
    .footer
    {
-    background-color: red;
+    background-color:red;
    }
   
 @media all and (max-width:600px){

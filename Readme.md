@@ -1,9 +1,9 @@
 ======================================================================
 
-	  Website Template Name: Science
-	  Website Template URI: file:///home/user/Desktop/sciencelab/index.html
+	  Website Template Name: Cafeteria
+	  Website Template URI: https://github.com/ShilpaRaniPat/finalpro
 	  Version: 1
-	  Author:XY
+	  Author:XYZ
 
 ======================================================================
 

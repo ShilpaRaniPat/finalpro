@@ -7,7 +7,7 @@
 }
 
 .ban{
-    background-image: url("img/coffee.jpg");
+    background-image: url("../img/coffee.jpg");
      width:100%;
     background-size:cover;
 
@@ -149,7 +149,7 @@ text-decoration:none;
 
 }
 .contact{
-    background:url("img/niit.jpg");
+    background:url("../img/niit.jpg");
     padding:0 0;
     z-index:1;
 }
@@ -192,7 +192,7 @@ margin-bottom:18px;
  
      .logo img{
          height:60px;
-         width:100px;
+         width:150px;
      }
 .contact-items a{
     background:orange;
